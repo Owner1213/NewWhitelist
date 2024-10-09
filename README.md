@@ -1,2 +1,2 @@
 # NewWhitelist
-Subject-to-change soon.:tm:
+Subject-to-change soon. :tm:
