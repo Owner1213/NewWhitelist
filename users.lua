@@ -2,21 +2,21 @@ return {
     [1] = {
         u = "NotZWare_VC",
         t = "Developer",
-        dcn = "Snow",
+        dcn = "snow",
         tc = Color3.fromRGB(255, 0, 0),
         hwid = "25eeb711-5346-4b92-bce3-1a2b85119b56"
     },
     [2] = {
         u = "typer_progamerspeed",
         t = "Developer",
-        dcn = "Snow",
+        dcn = "snow",
         tc = Color3.fromRGB(255, 0, 0),
         hwid = "25eeb711-5346-4b92-bce3-1a2b85119b56"
     },
     [3] = {
         u = "dawyftgjhklddawda",
         t = "Developer",
-        dcn = "Snow",
+        dcn = "snow",
         tc = Color3.fromRGB(255, 0, 0),
         hwid = "25eeb711-5346-4b92-bce3-1a2b85119b56"
     },
